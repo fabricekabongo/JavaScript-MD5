@@ -95,3 +95,7 @@ The first one tests the browser integration, the second one the [node.js](http:/
 
 ## License
 The JavaScript MD5 script is released under the [MIT license](http://www.opensource.org/licenses/MIT).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fabricekabongo/javascript-md5/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
